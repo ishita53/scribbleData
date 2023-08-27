@@ -19,3 +19,5 @@ This project is written to analyse youtube video data
 * Make changes so that only a single module is directly interacting with DB
 * Reduce DB calls
 * Include more parameters in analysis
+
+## To run this create a new folder 'kaggle' in Data and store all the csv files extracted from [here](https://www.kaggle.com/datasnaek/youtube-new)
